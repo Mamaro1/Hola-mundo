@@ -17,7 +17,7 @@ FEcha: 16 agosto
                             <p>Describrir la idea, este es un video donde explico la importancia de la ciencia y la tecnologia y su divulgación 
                             en los jovenes mexicanos, necesitamos un mayot acercamiento a ella.</p> <!-- INSERTAR TEXTO-->
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary"><!--inicia video--><iframe width="560" height="315" src="https://youtu.be/embed/SVAuuUyFFBc" frameborder="0" allow="accelerometer; 
+                        <div class="flex-shrink-0"><span class="text-primary"><!--inicia video--><iframe width="560" height="315" src="https://www.youtube.com/watch?v=SVAuuUyFFBc&feature=youtu.be" frameborder="0" allow="accelerometer; 
                             autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <!--termina video--> </span></div> <!-- COLOCAR LA IDEA CENTRAL (OPCIONAL)  CAMBIO POR VIDEO-->
                     </div>
                 </div>
