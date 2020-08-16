@@ -305,4 +305,6 @@
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
     </body>
+    
+    <img src="https://www.youtube.com/watch?v=SVAuuUyFFBc&feature=youtu.be"> 
 </html>
